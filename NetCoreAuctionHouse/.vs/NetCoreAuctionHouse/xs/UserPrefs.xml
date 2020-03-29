@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A5F0267E-D4F7-44A9-A616-F480C228C78D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCoreAuctionHouse/app/src/ItemComponent.js">
+    <Files>
+      <File FileName="NetCoreAuctionHouse/appsettings.json" Line="12" Column="100" />
+      <File FileName="NetCoreAuctionHouse/app/src/ItemComponent.js" Line="42" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetCoreAuctionHouse" expanded="True">
+            <Node name="NetCoreAuctionHouse" expanded="True">
+              <Node name="app" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="App.js" expanded="True" />
+                  <Node name="ItemComponent.js" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetCoreAuctionHouse PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
